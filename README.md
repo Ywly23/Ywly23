@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ywly23
-- 👀 I’m interested in obfuscation and game development
+- 👀 I’m interested in obfuscation and reverse engineering
 - 🌱 I’m currently learning c++, c# and lua
 - 📫 How to reach me Yww#1384
 
